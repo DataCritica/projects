@@ -1,4 +1,4 @@
-# DataCritica - projects
+# DataCrítica - projects
 
 All the code and data from projects at [datacrítica](https://datacritica.org/)
 

@@ -5,8 +5,10 @@ All the code and data from projects at [datacrítica](https://datacritica.org/)
 
 | Date | Repository | Story
 | --- | --- | --- |
+| - |[`migracion-cuir`](https://github.com/DataCritica/migracion-cuir) | [-]() |
 | - | [`attack-detector`](https://github.com/DataCritica/attack-detector)| [Attack Detector team from the 2022 JournalismAI Fellowship](https://blogs.lse.ac.uk/polis/2022/06/07/meet-the-journalismai-fellows-of-2022/) |
-| - | [`spotify-mexico`](https://github.com/DataCritica/spotify-mexico) | - |
+| - | [`spotify-mexico`](https://github.com/DataCritica/spotify-mexico) | [-]() |
+| 2022-07-31 | [`comision-revision-bolivia`](https://github.com/DataCritica/comision-revision-bolivia)| [La comisión de revisión no detalla sus resultados y niega acceso a un grupo de siete medios](https://boliviaverifica.bo/feminicidios-la-comision-de-revision-no-detalla-sus-resultados-y-niega-acceso-a-un-grupo-de-siete-medios/) |
 | 2022-06-30 | [`violencia-obstetrica-cuba`](https://github.com/DataCritica/violencia-obstetrica-cuba) | [Partos Rotos: Especial sobre violencia obstétrica en Cuba](https://partoscuba.info/) |
 | 2022-04-06 | [`escritoras-latinas`](https://github.com/DataCritica/escritoras-latinas) | [Una constelación de escritoras latinoamericanas](https://datacritica.org/portfolio/constelaciones-de-escritoras-latinoamericanas-nacidas-en-el-siglo-xx/) |
 | 2022-02-15 | [`cookiecutter-data-journalism`](https://github.com/DataCritica/cookiecutter-data-journalism) | [A cookiecutter template for data journalism projects using python](https://github.com/DataCritica/cookiecutter-data-journalism/blob/master/README.md) |

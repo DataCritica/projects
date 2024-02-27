@@ -5,7 +5,7 @@ All the code and data from projects at [datacrítica](https://datacritica.org/)
 
 | Date | Repository | Story
 | --- | --- | --- |
-| - |[`migracion-cuir`](https://github.com/DataCritica/migracion-cuir) | [-]() |
+| - |[`travesticidios-argentina`](https://github.com/DataCritica/travesticidios-argentina) | [-]() |
 | - | [`attack-detector`](https://github.com/DataCritica/attack-detector)| [Attack Detector team from the 2022 JournalismAI Fellowship](https://blogs.lse.ac.uk/polis/2022/06/07/meet-the-journalismai-fellows-of-2022/) |
 | - | [`spotify-mexico`](https://github.com/DataCritica/spotify-mexico) | [-]() |
 | 2022-07-31 | [`comision-revision-bolivia`](https://github.com/DataCritica/comision-revision-bolivia)| [La comisión de revisión no detalla sus resultados y niega acceso a un grupo de siete medios](https://boliviaverifica.bo/feminicidios-la-comision-de-revision-no-detalla-sus-resultados-y-niega-acceso-a-un-grupo-de-siete-medios/) |
